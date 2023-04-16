@@ -1,0 +1,23 @@
+{
+  "name": "up-work",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/free-regular-svg-icons": "^6.4.0",
+    "@nextui-org/react": "^1.0.0-beta.12",
+    "next": "13.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "prettier": "2.8.7",
+    "sass": "^1.62.0"
+  }
+}
